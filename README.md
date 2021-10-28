@@ -574,7 +574,6 @@ algorithms, knowledgebase and AI technology.
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
-* [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
 ## [↑](#contents) Phone Number Research
 * [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
@@ -1123,7 +1122,6 @@ algorithms, knowledgebase and AI technology.
 * [Maxar](https://discover.digitalglobe.com/)
 * [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
 * [Zoom Earth](https://zoom.earth/)
-* [Remote Pixel](https://remotepixel.ca/projects/index.html)
 * [SunCalc](https://www.suncalc.org/)
 * [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 * [Pic2Map](https://www.pic2map.com/)
